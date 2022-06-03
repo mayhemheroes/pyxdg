@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_menu.pkg
+cmds:
+- cmd: /out/fuzz_menu.pkg
